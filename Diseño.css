@@ -63,6 +63,14 @@ body {
 
 }
 
+.line2{
+	
+	background-color: black;
+	
+	width: 1475px;
+	height: 10px;
+}
+
 .lasttext{
 	
 	text-align: center;
